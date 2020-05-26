@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ozkZIkjAVKYZJ4dkHoqGoq+C72DoB/M6ruI5E4549Tyq2r1raiNu4cCTNrcpt3dJv5zKpdUKr69PX88RilrOeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kevin\\Portfolio\\Let's Get a Job\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
